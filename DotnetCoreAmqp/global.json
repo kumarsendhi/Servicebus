@@ -1,0 +1,3 @@
+{
+    "projects": [ "QueueReceiver", "QueueSender", "TopicReceiver", "TopicSender" ]
+}

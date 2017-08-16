@@ -1,0 +1,10 @@
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Receiver.exe.config
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Receiver.runtimeconfig.json
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Receiver.runtimeconfig.dev.json
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Receiver.exe
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Receiver.pdb
+C:\StudentFiles\TemporalDecoupling\Receiver\bin\Debug\net461\Microsoft.ServiceBus.dll
+C:\StudentFiles\TemporalDecoupling\Receiver\obj\Debug\net461\Receiver.csprojResolveAssemblyReference.cache
+C:\StudentFiles\TemporalDecoupling\Receiver\obj\Debug\net461\Receiver.AssemblyInfo.cs
+C:\StudentFiles\TemporalDecoupling\Receiver\obj\Debug\net461\Receiver.exe
+C:\StudentFiles\TemporalDecoupling\Receiver\obj\Debug\net461\Receiver.pdb

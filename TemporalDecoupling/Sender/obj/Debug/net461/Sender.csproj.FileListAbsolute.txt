@@ -1,0 +1,9 @@
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Sender.exe.config
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Sender.runtimeconfig.json
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Sender.runtimeconfig.dev.json
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Sender.exe
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Sender.pdb
+C:\StudentFiles\TemporalDecoupling\Sender\bin\Debug\net461\Microsoft.ServiceBus.dll
+C:\StudentFiles\TemporalDecoupling\Sender\obj\Debug\net461\Sender.AssemblyInfo.cs
+C:\StudentFiles\TemporalDecoupling\Sender\obj\Debug\net461\Sender.exe
+C:\StudentFiles\TemporalDecoupling\Sender\obj\Debug\net461\Sender.pdb

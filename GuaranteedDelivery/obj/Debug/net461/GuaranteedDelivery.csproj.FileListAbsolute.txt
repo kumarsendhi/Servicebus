@@ -1,0 +1,10 @@
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\GuaranteedDelivery.exe.config
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\GuaranteedDelivery.runtimeconfig.json
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\GuaranteedDelivery.runtimeconfig.dev.json
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\GuaranteedDelivery.exe
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\GuaranteedDelivery.pdb
+C:\StudentFiles\GuaranteedDelivery\bin\Debug\net461\Microsoft.ServiceBus.dll
+C:\StudentFiles\GuaranteedDelivery\obj\Debug\net461\GuaranteedDelivery.csprojResolveAssemblyReference.cache
+C:\StudentFiles\GuaranteedDelivery\obj\Debug\net461\GuaranteedDelivery.AssemblyInfo.cs
+C:\StudentFiles\GuaranteedDelivery\obj\Debug\net461\GuaranteedDelivery.exe
+C:\StudentFiles\GuaranteedDelivery\obj\Debug\net461\GuaranteedDelivery.pdb

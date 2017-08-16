@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "WindowsAzure.ServiceBus/3.3.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45-full/Microsoft.ServiceBus.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/Microsoft.ServiceBus.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win7-x86": {
+      "WindowsAzure.ServiceBus/3.3.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45-full/Microsoft.ServiceBus.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/Microsoft.ServiceBus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowsAzure.ServiceBus/3.3.1": {
+      "sha512": "o0CtIGUYHM1raLLpmDGdhIsXvXWKTmKh/mfwAOBuSSZUWNU/cGsqo8rZ5rmnPAfIX7p66cse1IObrI95+tjNug==",
+      "type": "package",
+      "path": "windowsazure.servicebus/3.3.1",
+      "files": [
+        "content/app.config.install.xdt",
+        "content/web.config.install.xdt",
+        "lib/net45-full/Microsoft.ServiceBus.dll",
+        "lib/net45-full/Microsoft.ServiceBus.xml",
+        "windowsazure.servicebus.3.3.1.nupkg.sha512",
+        "windowsazure.servicebus.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "WindowsAzure.ServiceBus >= 3.3.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\seyonadmin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\StudentFiles\\GuaranteedDelivery\\GuaranteedDelivery.csproj",
+      "projectName": "GuaranteedDelivery",
+      "projectPath": "C:\\StudentFiles\\GuaranteedDelivery\\GuaranteedDelivery.csproj",
+      "outputPath": "C:\\StudentFiles\\GuaranteedDelivery\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "WindowsAzure.ServiceBus": {
+            "target": "Package",
+            "version": "3.3.1"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
